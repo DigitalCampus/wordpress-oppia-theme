@@ -9,7 +9,14 @@
 						<li><a href="mailto:alex@digital-campus.org">alex@digital-campus.org</a></li>
 					</ul>
 				</div>
-				
+				<div class="footer-col">
+					<h4>Resources</h4>
+					<ul>
+						<li><a href="https://play.google.com/store/apps/details?id=org.digitalcampus.mobile.learning">OppiaMobile Android App</a></li>
+						<li><a href="https://oppiamobile.readthedocs.org/en/latest/">Documentation</a></li>
+						<li><a href="https://downloads.digital-campus.org/OppiaMobile/virtualbox-images/">VirtualBox images</a></li>
+					</ul>
+				</div>
 				<div class="footer-col">
 					<h4>Follow Us</h4>
 					<ul>
